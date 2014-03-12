@@ -236,24 +236,24 @@
 		EB70075E1704EF710066E51C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = "";
 				GCC_WARN_UNINITIALIZED_AUTOS = NO;
 				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/boost/1.53.0/include;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.7;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
 		EB70075F1704EF710066E51C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = "";
 				GCC_WARN_UNINITIALIZED_AUTOS = NO;
 				"HEADER_SEARCH_PATHS[arch=*]" = /usr/local/Cellar/boost/1.53.0/include;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.7;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
